@@ -9,7 +9,9 @@ tag:
 - video
 comments: true
 ---
-<iframe width="560" height="315" src="/bookstore.mp4" frameborder="0"> </iframe>
+<video width="100%" controls>
+	<source src="/bookstore.mp4" type="video/mp4">
+</video>
 
 Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
 
