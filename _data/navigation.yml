@@ -1,4 +1,10 @@
 # Site navigation links
 
-#- title: Projects
-#  url: /projects/
+- title: Project Proposal
+  url: /pages/project-proposal
+
+- title: Project Progress Check
+  url: /pages/project-progress-check
+
+- title: Animation Demo
+  url: /pages/animation-demo
