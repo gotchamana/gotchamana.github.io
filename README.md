@@ -1,1 +1,4 @@
 # Computer Animation Final Project
+<video width="320" height="240" controls>
+	<source src="test.mp4" type="video/mp4">
+</video>
