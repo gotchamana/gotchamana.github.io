@@ -8,7 +8,7 @@ comments: false
 ## Introduction
 
 ## Tools
-* **系統環境**：![Fedora logo](assets/logo/fedora-logo.png)Linux(Fedora 28)   
+* **系統環境**：![Fedora logo](huamnchair/assets/logo/fedora-logo.png)Linux(Fedora 28)   
 我知道這對一般人來說在什麼系統環境下作業感覺起來不是那麼重要，如果是Mac的話倒是另當別論，因為Mac的筆電在設計這塊上似乎佔有很大優勢。不過作為一位熱衷於Linux的不專業用戶來說，這是想要證明相較於其他作業系統(Windows、Mac)，同樣的工作在Linux底下其實都能夠辦得到，說不定在某些地方上操作起來也比較方便。由於有著這項前提，所以製作動畫期間所使用的工具也就都必須支援Linux平臺才行。
 
 * **繪圖**：Gimp   
