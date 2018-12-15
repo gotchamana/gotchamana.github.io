@@ -12,7 +12,7 @@ comments: false
 我知道這對一般人來說在什麼系統環境下作業感覺起來不是那麼重要，如果是Mac的話倒是另當別論，因為Mac的筆電在設計這塊上似乎佔有很大優勢。不過作為一位熱衷於Linux的不專業用戶來說，這是想要證明相較於其他作業系統(Windows、Mac)，同樣的工作在Linux底下其實都能夠辦得到，說不定在某些地方上操作起來也比較方便。由於有著這項前提，所以製作動畫期間所使用的工具也就都必須支援Linux平臺才行。
 
 * **繪圖**：<img src="/humanchair/assets/logo/gimp-logo.png" alt="Gimp logo" style="display:inline-block;">Gimp   
-作3D動畫也需要畫畫?我只是拿來稍微畫一下UV貼圖以及動畫裡頭書本的封面而已。值得一提的是Gimp在開源界中是名氣頗為響亮，能夠和PS擺在一起討論的一個軟體
+作3D動畫也需要畫畫?我只是拿來稍微畫一下UV貼圖以及動畫裡頭書本的封面而已。值得一提的是Gimp在開源界中是名氣頗為響亮，能夠和PS擺在一起討論的一個軟體。
 
 * **建模、動畫**：<img src="/humanchair/assets/logo/blender-logo.png" alt="Blender logo" style="display:inline-block;">Blender   
 我本來是沒想到要用Blender做動畫的，因為上課教的是Maya，不過在我的筆電第一次操作時，只是照著課堂的範例在做鏡像建模時，整個模型的畫面就沒辦法完整的顯示，變得破碎而不完全，然後在軟體的Console中一直跳出類似記憶體不夠的訊息，接著打開工作管理員一看，我的GPU使用率已經被用到100%了，只是建個簡單的模型而已電腦就變成這副德性，於是我便放棄了它，轉而在Linux底下使用Blender(Maya雖然也有Linux的版本，不過我在實際安裝完後卻卡在授權使用的部分，簡單來說就是不能用)。
