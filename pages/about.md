@@ -11,7 +11,7 @@ comments: false
 這個動畫的故事主要是改編自江戶川亂步的短篇小說〈人椅〉，內容大致是在敘述一位自覺長相醜陋的椅子工匠，在內心的自卑情感作用之下偶然對於自己平常製作的椅子有著特異的想法，既然自己無臉面對眾人，何不躲在椅子裡面呢？於是這位工匠便躲進某項案子中所要求製作的椅子裡頭，接著就開始他的椅子之旅(?   
 角色的部分因為人物模型很難做，就找了幾個我比較喜歡的吉祥物。   
 第一個是Tuzki，通體雪白、身上沒有任何花紋(這代表著上貼圖非常容易)，在FB的貼圖裡面感覺起來也蠻可愛討喜的，於是就拿他當故事中的工匠了。   
-第二個是Tux，Linux的吉祥物代表，身為Linux的使用者怎麼可以忽略掉呢？雖然整體的模型結構有點複雜，而且身上的膚色分布也很難上貼圖，但是皇天不負苦心人，經過長時間的努力過後，我終於找到現成的素材可拿來使用:grin::grin::grin:。牠主要是作為故事的第二主角——暢銷作家。   
+第二個是Tux，Linux的吉祥物代表，身為Linux的使用者怎麼可以忽略掉呢？雖然整體的模型結構有點複雜，而且身上的膚色分布也很難上貼圖，但是皇天不負苦心人，經過長時間的努力過後，我終於找到現成的素材可拿來使用。牠主要是作為故事的第二主角——暢銷作家。   
 最後一個是Android，長得一副機器人模樣，感覺起來就蠻適合當工具人或路人的，而且為了響應環保，模型應該要能夠重複利用才行，所以你會在動畫中一直看見它的身影。
 <figure class="third">
 	<img src="/humanchair/assets/portrait/tuzki.png" alt="Tuzki portrait">
@@ -43,8 +43,10 @@ comments: false
   * [Free3D.com](https://free3d.com/)
   * [TurboSquid](https://www.turbosquid.com/)
 
-* **貼圖來源**:[Textures.com](https://www.textures.com/)
+* **貼圖來源**: [Textures.com](https://www.textures.com/)
 
 * **音樂、音效來源**
 
-* **網頁佈景來源**:[Moon Jekyll Theme](https://github.com/TaylanTatli/Moon)
+* **網頁佈景來源**: [Moon Jekyll Theme](https://github.com/TaylanTatli/Moon)
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
