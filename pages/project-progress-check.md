@@ -7,3 +7,5 @@ comments: false
 
 <center>這裡放的是動畫提案後一個月的進度簡報</center>
 自己做動畫的時間集中在六日一，為什麼呢？因為課在每個禮拜二，而在這前幾天，我會有個「假如不在禮拜二前生出一些東西出來就完蛋了」的想法浮現於腦海中，而且在進度報告的前一周尤其嚴重，很擔心自己的進度比別人還落後許多，不過當天聽完別人的報告之後發覺其實也還好啦！
+
+<iframe src="https://drive.google.com/file/d/1ozb9ORu8v9m0ZbPmMraZdx1eeO2zbfZs/preview" width="100%" height="480" frameborder="0"></iframe>
