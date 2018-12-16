@@ -9,6 +9,11 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             zh-TW
 url:                https://gotchamana.github.io/humanchair
+defaults: 
+  - scope: 
+      path: "assets/slide/proposal"
+    values: 
+      proposal: true
 
 # Jekyll
 permalink:          /:title/
