@@ -87,11 +87,8 @@
         </div>
         <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:980px;height:500px;overflow:hidden;">
             <div>
-	    	{% for image in site.static_files %}
-	     	    <p>{{ image.path }}</p>
-		    {% if imgae.path contains 'slide' %}
-		        <img data-u="image" src="{{ site.url }}/assets/slide/{{ include.type }}/{{ forloop.index }}.png">
-		    {% endif %}
+	    	{% for i in (1..3)%}
+	            <img data-u="image" src="{{ site.url }}/assets/slide/{{ include.type }}/{{ i }}.png">
 		{% endfor %}
             </div>
         </div>
