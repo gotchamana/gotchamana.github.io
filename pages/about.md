@@ -37,6 +37,8 @@ comments: false
 * **網站建置**：<img src="/humanchair/assets/logo/github-logo.png" alt="Github logo" style="display:inline-block;"><img src="/humanchair/assets/logo/jekyll-logo.png" alt="Jekyll logo" style="display:inline-block;">Github Pages + Jekyll   
 一想到還要為動畫架個介紹網站我就傷透腦筋，對於HTML和CSS的掌握僅限於看得懂的程度，要我從頭規劃並打造出一個網頁根本是一項浩大工程。起初是想到能用Wix或Weebly這類可以靠簡易拖拉製作網站的平臺來處理，不過在免費使用下它會在網頁裡頭留下廣告的痕跡，而且網頁的icon還沒辦法改，這對我來說是很嚴重的事，於是最後我改而使用Github Page，不僅完全免費，還能整合Jekyll(一種靜態網頁的產生工具)，網路上也有很多佈景主題可供挑選，只要你會使用Markdown語法，就能夠做出簡潔漂亮的網站出來，實在是一舉多得。
 
+## Sources
+
 ## Resources
 ---
 * **模型來源**
@@ -47,7 +49,11 @@ comments: false
 * **貼圖來源**: [Textures.com](https://www.textures.com/)
 
 * **音樂、音效來源**
+  * [YouTube音效庫](https://www.youtube.com/audiolibrary/music)
+  * [Freesound](https://freesound.org/)
 
-* **網頁佈景來源**: [Moon Jekyll Theme](https://github.com/TaylanTatli/Moon)
+* **網頁相關來源**
+  * 佈景主題: [Moon Jekyll Theme](https://github.com/TaylanTatli/Moon)
+  * CSS圖片輪播: [Simple Fade Slideshow](https://www.jssor.com/demos/simple-fade-slideshow.slider)
 
 * **圖標來源**: [FlatIcon](https://www.flaticon.com)(由[Smashicons](https://www.flaticon.com/authors/smashicons)製作)
