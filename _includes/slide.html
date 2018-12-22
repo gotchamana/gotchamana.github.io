@@ -87,6 +87,7 @@
         </div>
         <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:980px;height:500px;overflow:hidden;">
             <div>
+	        <p>site.static_files</p>
 	    	{% for image in site.static_files %}
 		    {% if imgae.path contains 'slide/{{ include.type }}' %}
 		        <img data-u="image" src="{{ site.url }}/assets/slide/{ include.type }/{{ forloop.index }}.png">
