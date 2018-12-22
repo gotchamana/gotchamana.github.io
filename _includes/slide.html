@@ -89,10 +89,9 @@
             <div>
 	    	{% for image in site.static_files %}
 		    {% if imgae.path contains 'slide/{{ include.type }}' %}
-		        <img src="{{ site.url }}/assets/slide/{ include.type }/{{ forloop.index }}.png">
+		        <img data-u="image" src="{{ site.url }}/assets/slide/{ include.type }/{{ forloop.index }}.png">
 		    {% endif %}
 		{% endfor %}
-                <img data-u="image" src="{{ site.url }}/assets/slide/proposal/003.jpg" />
             </div>
         </div>
         <!-- Bullet Navigator -->
