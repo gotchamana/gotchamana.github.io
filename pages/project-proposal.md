@@ -10,5 +10,5 @@ comments: false
 
 <iframe src="https://drive.google.com/file/d/1GQs6cnVyqBatvIDFmLjvD6Zqry6f8aqc/preview" width="100%" height="480" frameborder="0"></iframe>
 <div>
-	{% include slide.html type="proposal" %}
+	{% include slide.html number=3 type="proposal" %}
 </div>
