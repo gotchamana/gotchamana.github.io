@@ -90,6 +90,7 @@
 	    	{% for image in site.static_files %}
 		    {% if imgae.path contains 'slide' %}
 		        <img data-u="image" src="{{ site.url }}/assets/slide/{{ include.type }}/{{ forloop.index }}.png">
+			<p>{{ image.path }}</p>
 		    {% endif %}
 		{% endfor %}
             </div>
