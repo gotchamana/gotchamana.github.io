@@ -38,6 +38,9 @@ comments: false
 一想到還要為動畫架個介紹網站我就傷透腦筋，對於HTML和CSS的掌握僅限於看得懂的程度，要我從頭規劃並打造出一個網頁根本是一項浩大工程。起初是想到能用Wix或Weebly這類可以靠簡易拖拉製作網站的平臺來處理，不過在免費使用下它會在網頁裡頭留下廣告的痕跡，而且網頁的icon還沒辦法改，這對我來說是很嚴重的事，於是最後我改而使用Github Page，不僅完全免費，還能整合Jekyll(一種靜態網頁的產生工具)，網路上也有很多佈景主題可供挑選，只要你會使用Markdown語法，就能夠做出簡潔漂亮的網站出來，實在是一舉多得。
 
 ## Sources
+---
+* **Blender原始檔**: [載點]({{ site.url }}/assets/src/source.tar.gz)(總共有書店、書房、工作室和飯店貴賓室四個場景)
+* **低畫質影片**: [載點]({{ site.url }}/assets/src/HumanChair_low_quality.mp4)
 
 ## Resources
 ---
