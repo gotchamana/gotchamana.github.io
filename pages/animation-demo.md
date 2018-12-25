@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Animation demo
+title: Animation Demo
 date: 2018-12-14
 comments: false
 ---
