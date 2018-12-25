@@ -39,8 +39,8 @@ comments: false
 
 ## Sources
 ---
-* **Blender原始檔**: [載點]({{ site.url }}/assets/src/source.tar.xz)(總共有書店、書房、工作室和飯店貴賓室四個場景)
-* **低畫質影片**: [載點]({{ site.url }}/assets/src/HumanChair.tar)
+* **Blender原始檔**: [載點]({{ site.url }}/releases/download/v1.0/source.zip)(總共有書店、書房、工作室和飯店貴賓室四個場景)
+* **低畫質影片**: [載點]({{ site.url }}/releases/download/v1.0/HumanChair_low_quality.mp4)
 
 ## Resources
 ---
